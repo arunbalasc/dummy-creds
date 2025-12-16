@@ -1,0 +1,29 @@
+Dummy Credentials Bundle
+
+GitHub Tokens
+
+ghp_1234567890abcdefghijklmnopqrstuvwxyzABCD
+github_pat_11AABBCCDDEE11223344556677889900AABBCCDD
+
+AWS Credentials
+
+Access Key ID: AKIAIOSFODNN7EXAMPLE Secret Access Key:
+wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY Session Token:
+IQoJb3JpZ2luX2VjEP///////////wEaCXVzLWVhc3QtMSJGMEQCIFakeFakeFakeFakeFake
+
+Azure Credentials
+
+Tenant ID: 00000000-0000-0000-0000-000000000000 Client ID:
+11111111-1111-1111-1111-111111111111 Client Secret:
+fakeAzureClientSecretValue1234567890 Subscription ID:
+22222222-2222-2222-2222-222222222222
+
+GCP Credentials
+
+Service Account Email:
+dummy-service-account@example-project.iam.gserviceaccount.com Private
+Key: —–BEGIN PRIVATE KEY—–
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfakefakefake
+fakefakefakefakefakefakefakefakefakefakefakefakefakefakefakefa —–END
+PRIVATE KEY—– Project ID: example-project-12345 Client ID:
+123456789012345678901
