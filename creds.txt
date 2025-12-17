@@ -1,5 +1,6 @@
 Dummy Credentials Bundle
 
+spectrocloud.com
 GitHub Tokens
 
 ghp_1234567890abcdefghijklmnopqrstuvwxyzABCD
